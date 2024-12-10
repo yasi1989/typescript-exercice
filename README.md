@@ -1,1 +1,17 @@
-# typescript-exercice
+# README
+こちらはもりたけんじさんが作成された、
+[javascript問題集](https://gist.github.com/kenmori/1961ce0140dc3307a0e641c8dde6701d)
+の個人学習用のリポジトリです。
+TypeScriptの問題を合わせると500問程度あるので、一日20問目安に解いていきます。
+
+# 誤った問題(後で解き直す用)
+004
+008
+009
+011
+013
+014
+015
+016
+018
+020
